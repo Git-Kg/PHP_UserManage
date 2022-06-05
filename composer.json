@@ -1,0 +1,16 @@
+{
+    "name": "tatko/php_project",
+    "authors": [
+        {
+            "name": "kmn",
+            "email": "kaung@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "classes/Libs/",
+            "Helpers\\": "classes/Helpers/"
+        }
+    }
+}
